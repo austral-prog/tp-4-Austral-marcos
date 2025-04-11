@@ -1,5 +1,5 @@
 def line():
-    A = float(input("Ingrese el coeficiente A:"))
+    A = float(input("Ingrese el coeficiente A: "))
     B = float(input("Ingrese el coeficiente B: "))
     X1 = float(input("Ingrese el coeficiente X1: "))
     X2 = float(input("Ingrese el coeficiente X2: "))
