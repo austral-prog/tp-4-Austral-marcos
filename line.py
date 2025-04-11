@@ -14,4 +14,4 @@ def line():
     print("Dado los siguientes puntos:")
     print(f"\tP1({X1},{Y1})")
     print(f"\tP2({X2},{A*X2+B})")
-    
+line()
