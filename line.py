@@ -13,4 +13,5 @@ def line():
     print("Dado los siguientes puntos:")
     print(f"\tP1 ({X1}, {A*X1+B})")
     print(f"\tP2 ({X2}, {A*X2+B})")
+    pritn("\n")
     print(f"La distancia entre ellos es: {((X2-X1)**2+(A*X2+B-A*X1-B)**2)**(1/2)}")
